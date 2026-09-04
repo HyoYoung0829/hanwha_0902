@@ -50,10 +50,10 @@ Python 기초부터 AI-Native 애플리케이션, RAG, AI Agent까지
 .
 ├── README.md
 ├── assets/
-│   └── hanwha_logo.svg
-├── day01/
-├── day02/
-├── day03/
+│   └── image.png
+├── 0902/
+├── 0903/
+├── 0904/
 └── ...
 ```
 
