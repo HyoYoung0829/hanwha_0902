@@ -71,3 +71,7 @@ Python 기초부터 AI-Native 애플리케이션, RAG, AI Agent까지
 🚀 **Hanwha Tomorrow Academy · AI Agent**
 
 </div>
+
+
+
+### 두번째 리드미 파일 수정입니다.(풀/푸쉬 연습)
