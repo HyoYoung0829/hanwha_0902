@@ -1,6 +1,7 @@
 # title = "AI 서비스 백엔드 프로그래밍 실무"
 # divider = "=================="
 
+# # 배열에 담긴 dict 구조
 # sub = [
 #     {"name": "파이썬 기본 문법", "time": 4},
 #     {"name": "클래스", "time": 5},
@@ -12,6 +13,7 @@
 # print(title)
 # print(divider)
 
+# # 배열을 순회하며 꺼내온 dict의 데이터를 출력
 # for item in sub:
 #     print(f"{item['name']} : {item['time']}시간")
 

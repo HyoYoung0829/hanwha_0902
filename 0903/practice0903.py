@@ -18,6 +18,7 @@
 
 
 # str = "Hello, World!"
+# # 문자열 길이 반환 (정수)
 # print(len(str))
 # print()
 
@@ -26,10 +27,11 @@
 #     print("------")
 
 
+# # 해당 문자열이 원본 문자열에 존재하는지 반환하는 문법 => boolean
 # txt = "The best things in life are free!"
 # print("free" in txt)
 
-
+# # 문자열의 인덱스를 바탕으로 특정 구간만 출력 할 수 있다.
 # b = "Hello, World!"
 # print(b[2:5])
 # print(b[:5])
@@ -81,7 +83,7 @@ p2.display_info()
 # class Person:
 #     pass
 
-
+# # 이런식으로 빈 클래스를 바탕으로 Obj를 만들 수 도 있다.
 # p1 = Person()
 # p1.name = "홍길동"
 # p1.age = 16
